@@ -81,10 +81,10 @@ function Header() {
         <meta name="description" content="Plan stress-free trips with WanderIQ! Get AI-generated itineraries, budget-friendly hotel recommendations, and seamless travel planning at your fingertips." />
 
         {/* Optimized Keywords for SEO */}
-        <meta name="keywords" content="Smart Travel Planner, AI Trip Itinerary Generator, Personalized Hotel Suggestions, Budget-Friendly Hotels, Seamless Travel Planning" />
+        <meta name="keywords" content="Trip,Travel site,AI Travel Planner, Smart Travel Planner, Luxury Travel , AI Trip Itinerary Generator, Personalized Hotel Suggestions, Budget-Friendly Hotels, Seamless Travel Planning" />
 
         {/* Open Graph Meta Tags for Social Media Preview */}
-        <meta property="og:title" content="WanderIQ - AI Smart Travel Planner" />
+        <meta property="og:title" content="WanderIQ - AI Travel Planner" />
         <meta property="og:description" content="Plan your trips with AI-generated travel itineraries and personalized hotel suggestions based on your budget." />
         <meta property="og:image" content="/projectlogo.svg" />
         <meta property="og:url" content="https://wanderiq.com" />
