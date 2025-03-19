@@ -11,7 +11,7 @@ function Hero() {
       <Helmet>
         <title>Discover Your Next Adventure with AI | WanderIQ</title>
         <meta name="description" content="Your personal AI trip planner and travel curator. Create custom itineraries tailored to your interests and budget with WanderIQ." />
-        <meta name="keywords" content="AI Trip Planner, Personalized Itineraries, Travel Curator, Budget-Friendly Trips, Smart Travel Planning" />
+        <meta name="keywords" content="Trip,Travel site,AI Travel Planner, Luxury Travel,AI Trip Planner, Personalized Itineraries, Travel Curator, Budget-Friendly Trips, Smart Travel Planning" />
         <meta property="og:title" content="Discover Your Next Adventure with AI | WanderIQ" />
         <meta property="og:description" content="Plan your perfect trip with AI-generated itineraries and personalized recommendations tailored to your preferences." />
         <meta property="og:image" content="/image.png" />
